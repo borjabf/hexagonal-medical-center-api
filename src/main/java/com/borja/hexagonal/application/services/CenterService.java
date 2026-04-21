@@ -5,12 +5,10 @@ import com.borja.hexagonal.domain.ports.in.CreateCenterUseCase;
 import com.borja.hexagonal.domain.ports.in.DeleteCenterUseCase;
 import com.borja.hexagonal.domain.ports.in.FindCenterUseCase;
 import com.borja.hexagonal.domain.ports.out.CenterRepository;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
 
-@Service
 public class CenterService implements CreateCenterUseCase, FindCenterUseCase, DeleteCenterUseCase {
 
     // Puerto de salida para persistencia
