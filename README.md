@@ -44,7 +44,7 @@ Una vez que la aplicación esté corriendo, puedes explorar y probar todos los e
 * ![GET](https://img.shields.io/badge/GET-blue) `/api/v1/centers/{id}` — Buscar por ID único.
 * ![DELETE](https://img.shields.io/badge/DELETE-red) `/api/v1/centers/{id}` — Eliminar un centro.
 ---
-### 👤 Autor
+## 👤 Autor
 
 **Borja Bajo** — *Software Developer*
 
