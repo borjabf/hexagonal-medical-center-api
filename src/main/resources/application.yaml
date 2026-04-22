@@ -7,3 +7,11 @@ spring:
 
 server:
   port: 8080
+
+springdoc:
+  swagger-ui:
+    path: /swagger
+  openapi:
+    info:
+      title: API Centros - Borja Hexagonal
+      version: 1.0.0
