@@ -50,4 +50,4 @@ Una vez que la aplicación esté corriendo, puedes explorar y probar todos los e
 
 **Borja Bajo** — *Software Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/borja-bajo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borja-bajo)
