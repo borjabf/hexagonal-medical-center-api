@@ -21,7 +21,7 @@ El proyecto está dividido en tres capas principales para asegurar la separació
 
 3. **Infraestructura (Infrastructure)**: La capa más externa. Contiene las implementaciones técnicas: controladores REST, persistencia en MongoDB y configuraciones de Spring.
 
- ### 🛠️ Instalación y Ejecución rápida
+ ## 🛠️ Instalación y Ejecución rápida
  Levanta el entorno completo (**Microservicio + MongoDB**) sin configurar nada localmente.
 
 > 1. Clona el repositorio en tu máquina.
@@ -32,12 +32,10 @@ El proyecto está dividido en tres capas principales para asegurar la separació
 > docker compose up --build
 > ```
 >
-> ✨ **¡Listo!** Accede a la interfaz en: [http://localhost:8080](http://localhost:8080)
-
+✨ **¡Listo!** Accede a la documentación interactiva en: [http://localhost:8080/swagger](http://localhost:8080/swagger)
 ## 📖 Documentación (Swagger)
 Una vez que la aplicación esté corriendo, puedes explorar y probar todos los endpoints de la API de forma visual desde el navegador:
 
-👉 http://localhost:8080/swagger
 
 **Desde aquí puedes realizar operaciones CRUD completas:**
 
